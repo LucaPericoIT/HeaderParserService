@@ -1,11 +1,23 @@
 {
-  "name": "headerparserservice",
+  "name": "requestheaderparser",
   "version": "1.0.0",
-  "description": "FreeCodeCamp Header Parser MicroService",
+  "description": "FreeCodeCamp - Request Header Parser MicroService",
   "main": "server.js",
+  "dependencies": {
+    "npm": "^3.10.6"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "test test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaPericoIT/HeaderParserService.git"
+  },
   "author": "Luca Perico",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucaPericoIT/HeaderParserService/issues"
+  },
+  "homepage": "https://github.com/LucaPericoIT/HeaderParserService#readme"
 }
