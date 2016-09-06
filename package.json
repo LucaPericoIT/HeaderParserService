@@ -1,0 +1,11 @@
+{
+  "name": "headerparserservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Header Parser MicroService",
+  "main": "server.js",
+  "scripts": {
+    "test": "test test.js"
+  },
+  "author": "Luca Perico",
+  "license": "MIT"
+}
